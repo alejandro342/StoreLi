@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Text_Base" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#2196f3</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>
